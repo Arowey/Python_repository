@@ -1,0 +1,10 @@
+name,score
+Alice,85
+Bob,58
+Carol,92
+David,76
+Eva,60
+Frank,89
+Grace,abc
+Henry,105
+Incomplete

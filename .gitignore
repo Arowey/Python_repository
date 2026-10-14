@@ -1,0 +1,20 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.ipynb_checkpoints
+
+# 本地虚拟环境与工具产物（体积大，不入库）
+_tools/env_exp01/
+_tools/conda_pkgs/
+_tools/tmp/
+_tools/tmp2/
+_tools/jupyter_data/
+_tools/ipython/
+_tools/jupyter_runtime/
+_tools/acl_recovery/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
